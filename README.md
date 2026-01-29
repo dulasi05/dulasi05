@@ -1,5 +1,6 @@
-## Hi there 👋
-👋 Hi there, I'm Dulasi Krishna
+## Hi there 👋 
+
+I'm Dulasi Krishna
 
 🎓 B.Tech Computer Science Engineering (3rd Year)
 📊 Aspiring Data Analyst
