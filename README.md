@@ -2,7 +2,7 @@
 
 I'm Dulasi Krishna
 
-🎓 B.Tech Computer Science Engineering (3rd Year)
+🎓 B.Tech Computer Science Engineering (4rd Year)
 📊 Aspiring Data Analyst
 
 I'm a Computer Science student with a strong interest in data analysis and data-driven problem solving. Currently building my skills in analyzing, cleaning, and querying data to extract meaningful insights. I enjoy working with data and continuously improving my technical and analytical abilities.
